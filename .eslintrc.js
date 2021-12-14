@@ -29,5 +29,6 @@ module.exports = {
     'no-unsafe-optional-chaining': 0,
     'no-nonoctal-decimal-escape': 0,
     'import/no-duplicates': 0,
+    'react/forbid-prop-types': 0,
   },
 };
